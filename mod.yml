@@ -1,0 +1,6 @@
+title: Aaaaaa
+description: Aaaaaaa
+assets:
+- name: vagstream\Title.win32.scd
+  method: copy
+  source:
